@@ -1,0 +1,52 @@
+/* variables */
+:root {
+    --color-primary: rgb(0, 0, 0);
+    --color-secondary: rgb(239, 239, 239);
+    --color-tertiary: rgb(255, 0, 4);
+    --color-quaternary: rgb(233, 244, 177);
+    --color-tertiary-dark: rgb(159, 6, 9);
+
+    --Heading-1-font: 'Boldonse', sans-serif;
+    --Body-font: 'Special Gothic Condensed One', sans-serif;
+    --Link-font: 'Special Gothic Condensed One', sans-serif;
+    --Quote-font: 'Contrail one', sans-serif;
+
+    --H1-size-Desktop-XL: 200px;
+    --H1-size-Desktop: 125px;
+    --H1-size-tablet: 80px;
+    --H1-size-mobile: 48px;
+
+    --H2-size-Desktop-XL: 100px;
+    --H2-size-Desktop: 80px;
+    --H2-size-tablet: 55px;
+    --H2-size-mobile: 40px;
+
+    --H3-size-Desktop-XL: 150px;
+    --H3-size-Desktop: 96px;
+    --H3-size-tablet: 64px;
+    --H3-size-mobile: 40px;
+
+    --Caption-size-Desktop-XL: 28px;
+    --Caption-size-Desktop: 20px;
+    --Caption-size-tablet: 18px;
+    --Caption-size-mobile: 14px;
+
+    --Body-size-Desktop-XL: 50px;
+    --Body-size-Desktop: 40px;
+    --Body-size-tablet: 24px;
+    --Body-size-mobile: 16px;
+
+    --Link-size-Desktop-XL: 24px;
+    --Link-size-Desktop: 24px;
+    --Link-size-tablet: 18px;
+    --Link-size-mobile: 16px;
+
+    --Footer-size-Desktop: 16px;
+    --Footer-size-mobile: 14px;
+
+    --section-pading-Desktop-XL: 50px 200px;
+    --section-pading-Desktop: 50px 50px;
+    --section-pading-tablet: 30px 30px;
+    --section-pading-mobile: 20px 20px;
+
+  }
